@@ -14,10 +14,10 @@
 - [Browse our case studies](https://myriota.com/category/case-studies/)
 
 ### **Ready to build** 💻
-- **Do you have a [Myriota Dev Kit](https://myriota.com/myriota-dev-kit/) or [Myriota Module](https://myriota.com/myriota-module/)?**
+- **Do you have a [Myriota UltraLite Development Kit](https://myriota.com/myriota-dev-kit/) or a [Myriota UltraLite Module](https://myriota.com/myriota-module/)?**
 <p float="left">
-  <img src="../Myriota Dev Kit.png" height="200" />
-  <img src="../Myriota Module.png" height="200" />
+  <img src="../Myriota UltraLite Development Kit.png" height="200" />
+  <img src="../Myriota UltraLite Module.png" height="200" />
 </p>
 
   - [SDK repository and code examples](https://github.com/Myriota/SDK)
@@ -26,9 +26,9 @@
 
 ---
 
-- **Do you have a [FlexSense device](https://myriota.com/flexsense/)?**
+- **Do you have a [Myriota UltraLite FlexSense](https://myriota.com/flexsense/)?**
 <p float="left">
-  <img src="../Myriota FlexSense.jpg" height="200" />
+  <img src="../Myriota UltraLite FlexSense.jpg" height="200" />
 </p>
 
   - [SDK repository and basic code examples](https://github.com/Myriota/Flex-SDK)
@@ -38,6 +38,17 @@
   - [FlexAssist mobile application - Android](https://play.google.com/store/apps/details?id=com.myriota.binzel&pcampaignid=web_share)
   - [FlexAssist mobile application - iOS](https://apps.apple.com/us/app/flexassist/id6474694371)
   - [User guides](https://support.myriota.com/hc/en-us/articles/9910489338639-User-Guides)
+
+- **Do you have a [Myriota HyperPulse Development Kit](https://myriota.com/hyperpulse-dev-kit/)?**
+<p float="left">
+  <img src="../Myriota HyperPulse Development Kit.png" height="200" />
+</p>
+
+  - [SDK repository and basic code examples](https://github.com/Myriota/HyperPulse-Zephyr)
+  - [API documentation](https://myriota.github.io/HyperPulse-Library-Docs/)
+  - [HyperPulse DeployAssist App - Android](https://play.google.com/store/apps/details?id=com.myriota.valeria)
+  - [HyperPulse DeployAssist App - iOS](https://apps.apple.com/us/app/hyperpulse-deployassist/id6754122383)
+  - [User guides](https://support.myriota.com/hc/en-us/articles/14509215365519-HyperPulse-Developer-Kit-Documentation)
 
 ### **Need technical support** 📞
 - [Technical documentation](https://support.myriota.com/hc/en-us?kb)
